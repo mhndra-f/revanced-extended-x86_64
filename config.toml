@@ -18,4 +18,5 @@ exclusive-patches = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx"
 
+include-stock = false
 riplib = false
